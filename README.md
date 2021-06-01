@@ -6,8 +6,6 @@ https://geekbrains.ru/certificates/790503.en
 https://geekbrains.ru/certificates/800831.en
 https://geekbrains.ru/certificates/852444.en
 https://geekbrains.ru/certificates/877950.en
-https://stepik.org/cert/349158
-https://stepik.org/cert/369141
-https://stepik.org/cert/793066
-https://stepik.org/cert/889759
-https://stepik.org/cert/912505
+
+All my certificates of completion on the Stepik.org platform you'll find clicking the link: 
+https://stepik.org/users/200304792/certificates 
